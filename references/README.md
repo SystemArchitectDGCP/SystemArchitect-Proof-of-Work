@@ -1,24 +1,17 @@
-# References: Original Sources and Public Pointers
+# References | Account Identity Boundaries
 
-**Scope:** Directory index for references to approved public source materials.  
-**Maintainer:** System Architect DGCP™  
-**Status:** Initial reference index. No source materials have been copied here.  
-**License: DGCP | MMFARM-POL-2025**
+**Scope:** Public identity links only.  
+**Authority:** P'Toh | System Architect DGCP™  
+**License:** DGCP | MMFARM-POL-2025
 
-## Historical and institutional pointers
+- [SystemArchitectDGCP](https://github.com/SystemArchitectDGCP): Separate architecture and institutional account.
+- [MaMeeFarm-Data](https://github.com/MaMeeFarm-Data): Separate historical source account.
+- [DGCP Framework](https://dgcpframework.com/): Public website.
 
-- [MaMeeFarm-Data](https://github.com/MaMeeFarm-Data): Separate original-data account and historical source context.
-- [MaMeeFarm-DGCP](https://github.com/MaMeeFarm-Data/MaMeeFarm-DGCP): Historical DGCP protocol materials.
-- [DGCP-Specs](https://github.com/MaMeeFarm-Data/DGCP-Specs): Published technical specifications in their original versions.
-- [SystemArchitectDGCP](https://github.com/SystemArchitectDGCP): Separate institutional architecture and development account.
-- [DGCP Framework](https://dgcpframework.com/): Public institutional website.
+These links are **not** an index of all underlying repositories or a permission grant. No private repository inventory, access details, original evidence, source files, methods or operational data are supplied here.
 
-Links do not transfer rights, grant permission to copy evidence or imply that all upstream records are publicly available. Maintain source-specific identification, provenance, rights and disclosure boundaries.
+References to source accounts do not transfer rights between them. Public GitHub access does not grant DGCP™ system-use rights; a paid authorization agreement is required.
 
-## No duplication
-
-This directory is a reference surface only, not a replacement archive of Raw Data, Proof records, Data Units, OTS attestations, CIDs, ledgers or private methods.
-
-See [Repository Governance](../GOVERNANCE.md) and [License Notice](../LICENSE.md).
+See [Owner Commercial and Disclosure Policy](../FRAMEWORK-OWNERSHIP-AND-COMMERCIAL-ACCESS-POLICY.md).
 
 License: DGCP | MMFARM-POL-2025
