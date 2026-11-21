@@ -3,8 +3,8 @@
   "@type": "CreativeWork",
   "@id": "https://github.com/SystemArchitectDGCP/SystemArchitect-Proof-of-Work#repository",
   "name": "System Architect: Proof of Work",
-  "headline": "System Architect Proof of Work: Public Work Record Index",
-  "description": "Public index of approved, attributable work outputs and institutional development milestones by the DGCP System Architect. Not a raw-data, proof-chain, or unrestricted evidence repository.",
+  "headline": "System Architect Proof of Work: Framework Ownership and Rights Notice",
+  "description": "Public identity, authorship, and rights notice for P'Toh, System Architect DGCP. This repository does not offer free framework use, public original evidence, or any daily work-publication commitment.",
   "url": "https://github.com/SystemArchitectDGCP/SystemArchitect-Proof-of-Work",
   "inLanguage": "en",
   "dateCreated": "2026-11-21",
@@ -31,15 +31,14 @@
   },
   "copyrightNotice": "All Rights Reserved. Permission required for uses not granted by the applicable governing instruments. DGCP | MMFARM-POL-2025.",
   "license": "DGCP | MMFARM-POL-2025",
-  "usageInfo": "Public availability is not permission for unrestricted redistribution, commercial reuse, AI training, dataset ingestion, or release of restricted underlying evidence. Apply source-specific rights and obtain authorization where required.",
+  "usageInfo": "DGCP framework/system use requires express owner authorization and an applicable paid license or commercial agreement. Public repository visibility grants no free system-use rights. Original Proof, DU, source records and private methods are not disclosed. Independently applicable prior licenses and agreements are not retrospectively amended by this notice.",
   "keywords": [
     "DGCP™",
     "Proof of Work",
     "System Architect",
-    "Provenance",
-    "Governance",
-    "Traceability",
-    "Public Work Records"
+    "Framework Ownership",
+    "Paid Licensing",
+    "Rights Reserved"
   ],
   "about": {
     "@type": "Thing",
@@ -53,19 +52,19 @@
   "citation": [
     {
       "@type": "CreativeWork",
-      "name": "MaMeeFarm-Data: Historical source account",
+      "name": "SystemArchitectDGCP account",
+      "url": "https://github.com/SystemArchitectDGCP"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "MaMeeFarm-Data historical source account (separate ownership and access scope)",
       "url": "https://github.com/MaMeeFarm-Data"
-    },
-    {
-      "@type": "CreativeWork",
-      "name": "MaMeeFarm-DGCP: Historical protocol records",
-      "url": "https://github.com/MaMeeFarm-Data/MaMeeFarm-DGCP"
-    },
-    {
-      "@type": "CreativeWork",
-      "name": "DGCP-Specs: Historical protocol specifications",
-      "url": "https://github.com/MaMeeFarm-Data/DGCP-Specs"
     }
   ],
-  "conditionsOfAccess": "Published work summaries only. Restricted evidence is not supplied by this repository."
+  "conditionsOfAccess": "Public identity and rights notice only. No public original Proof, Data Unit, raw evidence or system implementation is provided or promised.",
+  "hasPart": {
+    "@type": "CreativeWork",
+    "name": "Framework Ownership and Commercial Access Policy",
+    "url": "https://github.com/SystemArchitectDGCP/SystemArchitect-Proof-of-Work/blob/main/FRAMEWORK-OWNERSHIP-AND-COMMERCIAL-ACCESS-POLICY.md"
+  }
 }
