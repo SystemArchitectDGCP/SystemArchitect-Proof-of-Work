@@ -10,4 +10,6 @@ No milestone records are asserted by this README. Any future addition requires e
 
 See [Owner Commercial and Disclosure Policy](../FRAMEWORK-OWNERSHIP-AND-COMMERCIAL-ACCESS-POLICY.md).
 
+**Commercial boundary:** Public visibility grants no free DGCP™ framework/system-use rights. Use requires the owner's express authorization and an applicable paid license or commercial agreement.
+
 License: DGCP | MMFARM-POL-2025
