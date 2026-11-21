@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "@id": "https://github.com/SystemArchitectDGCP/SystemArchitect-Proof-of-Work#repository",
+  "name": "System Architect: Proof of Work",
+  "headline": "System Architect Proof of Work: Public Work Record Index",
+  "description": "Public index of approved, attributable work outputs and institutional development milestones by the DGCP System Architect. Not a raw-data, proof-chain, or unrestricted evidence repository.",
+  "url": "https://github.com/SystemArchitectDGCP/SystemArchitect-Proof-of-Work",
+  "inLanguage": "en",
+  "dateCreated": "2026-11-21",
+  "dateModified": "2026-11-21",
+  "author": {
+    "@type": "Person",
+    "name": "P'Toh",
+    "jobTitle": "System Architect DGCP™"
+  },
+  "creator": {
+    "@type": "Person",
+    "name": "P'Toh",
+    "jobTitle": "System Architect DGCP™"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "SystemArchitectDGCP",
+    "url": "https://github.com/SystemArchitectDGCP"
+  },
+  "copyrightHolder": {
+    "@type": "Person",
+    "name": "P'Toh",
+    "jobTitle": "System Architect DGCP™"
+  },
+  "copyrightNotice": "All Rights Reserved. Permission required for uses not granted by the applicable governing instruments. DGCP | MMFARM-POL-2025.",
+  "license": "DGCP | MMFARM-POL-2025",
+  "usageInfo": "Public availability is not permission for unrestricted redistribution, commercial reuse, AI training, dataset ingestion, or release of restricted underlying evidence. Apply source-specific rights and obtain authorization where required.",
+  "keywords": [
+    "DGCP™",
+    "Proof of Work",
+    "System Architect",
+    "Provenance",
+    "Governance",
+    "Traceability",
+    "Public Work Records"
+  ],
+  "about": {
+    "@type": "Thing",
+    "name": "DGCP™ (Data Governance & Continuous Proof)"
+  },
+  "isPartOf": {
+    "@type": "CreativeWork",
+    "name": "DGCP™ Framework public institutional information",
+    "url": "https://dgcpframework.com/"
+  },
+  "citation": [
+    {
+      "@type": "CreativeWork",
+      "name": "MaMeeFarm-Data: Historical source account",
+      "url": "https://github.com/MaMeeFarm-Data"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "MaMeeFarm-DGCP: Historical protocol records",
+      "url": "https://github.com/MaMeeFarm-Data/MaMeeFarm-DGCP"
+    },
+    {
+      "@type": "CreativeWork",
+      "name": "DGCP-Specs: Historical protocol specifications",
+      "url": "https://github.com/MaMeeFarm-Data/DGCP-Specs"
+    }
+  ],
+  "conditionsOfAccess": "Published work summaries only. Restricted evidence is not supplied by this repository."
+}
