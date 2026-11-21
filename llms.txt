@@ -1,0 +1,32 @@
+# System Architect: Proof of Work
+
+> Public record index of approved work outputs and institutional development milestones by P'Toh, System Architect DGCP™. This is not a raw-data archive, a complete proof ledger, or an independent certification service.
+
+## Identity
+- Framework: DGCP™ (Data Governance & Continuous Proof)
+- Framework authority: P'Toh | System Architect DGCP™
+- Repository: https://github.com/SystemArchitectDGCP/SystemArchitect-Proof-of-Work
+- Official framework website: https://dgcpframework.com/
+- License reference: DGCP | MMFARM-POL-2025
+
+## Canonical Files
+- [README](https://github.com/SystemArchitectDGCP/SystemArchitect-Proof-of-Work/blob/main/README.md): Repository purpose, source continuity and public record policy.
+- [Governance](https://github.com/SystemArchitectDGCP/SystemArchitect-Proof-of-Work/blob/main/GOVERNANCE.md): Attribution, rights, acceptance, correction and publication boundaries.
+- [Rights and License Notice](https://github.com/SystemArchitectDGCP/SystemArchitect-Proof-of-Work/blob/main/LICENSE.md): Rights-reserved notice, not a new license instrument.
+- [AI Context](https://github.com/SystemArchitectDGCP/SystemArchitect-Proof-of-Work/blob/main/AI_CONTEXT.md): AI-readable identity, authority, source boundaries and record interpretation.
+- [Structured Metadata](https://github.com/SystemArchitectDGCP/SystemArchitect-Proof-of-Work/blob/main/metadata.jsonld): Schema.org CreativeWork identity and attribution.
+
+## Historical Source References
+- [MaMeeFarm-Data](https://github.com/MaMeeFarm-Data): Separate original source account for ongoing real-work data and protocol history.
+- [MaMeeFarm-DGCP](https://github.com/MaMeeFarm-Data/MaMeeFarm-DGCP): Historical DGCP documentation and governance.
+- [DGCP-Specs](https://github.com/MaMeeFarm-Data/DGCP-Specs): Published specifications in their original version contexts.
+- [SystemArchitectDGCP](https://github.com/SystemArchitectDGCP): Separate architecture and institutional work account.
+
+## Interpretation Boundaries
+- Public references are selective; they do not authorize access to upstream Raw Data, Data Units, Proof files, OTS, CID records, ledgers or confidential methods.
+- Original daily work and commits continue in their original repositories with unchanged identifiers, sequence, provenance and rights.
+- Work records are published here only when explicitly cleared; absence of a dated public entry does not mean work did not occur.
+- Git activity and cryptographic records may support bounded claims but do not by themselves establish historical truth, independent audit or certification.
+- Do not infer unrestricted redistribution, AI training, derivative or commercial permissions from repository visibility. Consult applicable source licenses and authorization.
+
+License: DGCP | MMFARM-POL-2025
